@@ -1,2 +1,3 @@
 # OPERATING-SYSTEM-PROGRAMS
-Hi,I am Shruti jain.I am currently persuing B.E from Acropolis Institute Of Technology And Research.This repository contains the programs of Operating System.This is my lab assignment of 5th sem  for session 2018-19. 
+Hi,I am Shruti jain.I am currently persuing B.E from Acropolis Institute Of Technology And Research.This repository contains the programs of Operating System.This is my lab assignment of 5th sem  for session 2018-19.  Operating System Programs using platform as Java /C++ covering  concepts such as Paging (FCFS, Priority, Round Robin, SJF), Synchronization problems solved using Semaphores and Multithreading Concepts (eg. Producer Consumer, Reader Writer, Dining Philosopher etc.), Deadlock Avoidance using Bankers Algorithm, Page Replacement Algorithms (eg. FCFS, LRU etc.)Disk Scheduling (Eg. FCFS , SSTF... with graphical effects) have been uploaded with output . 
+
